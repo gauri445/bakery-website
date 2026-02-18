@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Sweet Delight Bakery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #fff8f0;
+            text-align: center;
+        }
+
+
+        header {
+            background-color: #ffb6b9;
+            padding: 20px;
+            color: white;
+        }
+
+
+        nav {
+            background-color: #ff6f61;
+            padding: 10px;
+        }
+
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+            font-weight: bold;
+        }
+
+
+        section {
+            padding: 30px;
+        }
+
+
+        .menu-item {
+            background-color: #ffe0e6;
+            margin: 15px auto;
+            padding: 15px;
+            width: 80%;
+            border-radius: 10px;
+        }
+
+
+        footer {
+            background-color: #ffb6b9;
+            padding: 15px;
+            color: white;
+        }
+    </style>
+</head>
+
+
+<body>
+
+
+<header>
+    <h1>Sweet Delight Bakery</h1>
+    <p>Freshly Baked Happiness Everyday!</p>
+</header>
+
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+</nav>
+
+
+<section>
+    <h2>Our Special Menu</h2>
+
+
+    <div class="menu-item">
+        <h3>Chocolate Cake</h3>
+        <p>Rich and creamy chocolate delight.</p>
+    </div>
+
+
+    <div class="menu-item">
+        <h3>Strawberry Cupcake</h3>
+        <p>Soft cupcake topped with fresh strawberries.</p>
+    </div>
+
+
+    <div class="menu-item">
+        <h3>Butter Croissant</h3>
+        <p>Flaky and buttery French-style croissant.</p>
+    </div>
+</section>
+
+
+<footer>
+    <p>© 2026 Sweet Delight Bakery | All Rights Reserved</p>
+</footer>
+
+
+</body>
+</html>
